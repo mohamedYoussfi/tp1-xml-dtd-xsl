@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE biblio SYSTEM "biblio.dtd">
+<biblio>
+    <etudiant id="1" nom="Ibrahimi" prenom="Hassan" age="24">
+        <livre id="11" titre="XML" dateEmprunt="2026-11-11" rendu="oui"/>
+        <livre id="34" titre="Java" dateEmprunt="2026-10-11" rendu="non"/>
+    </etudiant>
+    <etudiant id="2" nom="Med" prenom="Mohammed" age="32">
+        <livre id="34" titre="Oracle" dateEmprunt="2026-10-11" rendu="non"/>
+    </etudiant>
+</biblio>
